@@ -1,5 +1,7 @@
 # Makeup_suggestion
 
+![Screenshot](makeup.png)
+
 💄 Real-Time Makeup & Style Suggestion App
 A Streamlit-based live camera web app that analyzes your face shape, skin tone, and hairstyle preferences to provide personalized makeup suggestions in real-time.
 
